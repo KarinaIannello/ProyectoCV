@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    color: rgb(32, 32, 107);
+    background-image: url(/img/background.jpeg);
+    background-size: cover;
+}
+
+#mi-foto{
+    width: 100px;
+    height: 100px;
+    margin-top: 2vh;
+    border-radius: 10px;
+}
+
+.rectangulos {
+    background-color: #858080;
+    color: rgb(32, 32, 107);
+}
+
+footer {
+    background-color: rgb(123, 123, 231);
+    text-align: center;
+    color: #ffffff;
+}
+
+#IG {
+    color: white;
+}
+
+#linkedin {
+    color:white;
+}
